@@ -8,3 +8,10 @@
 
 **Link to work:** [Day 0](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day0)
 
+### Day 1: May 1, 2018 ###
+
+**Today's Progress**: Created code and unit tests to produce a sample output based on two integers as input.
+
+**Thoughts:** This was a little easier after day 0 but I ended up creating the repo with a different tree structure.  I'm not clear why.  I need to refactor this.  I also added a unit test which fails, again it's unclear why, as both the result from the method call and the execpted result appear to be the same visually in debug mode i.e. both a generic List<int> with the same number if items and each item has the same value.  Perhaps there is another way to compare generic lists.
+  
+  **Link to work:** [Day 1](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day1/Day1)
