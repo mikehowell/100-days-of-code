@@ -25,3 +25,13 @@
 **Thoughts**: This challenge was easier that the previous days and in the class I included two public properties.
 
 **Link to work**: [Day 2](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day2/MinMaxTemperature).
+
+### Day 3: May3, 2018 ###
+
+**Today's Progress**: Creaed code and unit tests to return a sorted list of integers from a list of 3 integers.
+
+**Thoughts**: I feel I cheated a little on this one by using the sort method on a list in the System.Collections.Generic.
+It was still difficult trying to do it in a class.  
+I wouldn't mind trying to implement an actual sorting algorithm in a class rather than using the sort method.
+
+**Link to work**: [Day 3](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day3).
