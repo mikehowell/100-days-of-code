@@ -43,3 +43,11 @@ I wouldn't mind trying to implement an actual sorting algorithm in a class rathe
 **Thoughts**: Today felt easier.  However, the class is simply a method that converts the int to a string and then returns an appropriate formatted string from substrings of the string.
 
 **Link to work**: [Day 4](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day4).
+
+### Day 5: May 5, 2018 ###
+
+**Today's Progress**: Create code and unit tests to return prime factors for a number.
+
+**Thoughts**: I needed to Google prime factorization and found some interesting worked examples on [StackOverflow](https://stackoverflow.com/questions/5872962/prime-factors-in-c-sharp) which formed the basis for completing this exercise.
+
+**Link to work**: [Day 5](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day5).
