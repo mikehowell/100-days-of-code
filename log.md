@@ -56,6 +56,6 @@ I wouldn't mind trying to implement an actual sorting algorithm in a class rathe
 
 **Today's Progress**: Created code and unit tests to remove a character from a string.
 
-**Thoughts**: I decided to do anoother challenge today.  This one seemed harder that it should have been.  There doesn't appear to be built in .Net method to do this.  I used two List<string>, one to contain the string and the other to take the characters that didn't need removing.  Finally I iterated over this List<string> to "convert" it to a string.  There's bound to be a much earier way to do this.
+**Thoughts**: I decided to do another challenge today.  This one seemed harder that it should have been.  There doesn't appear to be built in .Net method to do this.  I used two Lists, one to contain the string and the other to take the characters that didn't need removing.  Finally I iterated over this List to "convert" it to a string.  There's bound to be a much earier way to do this.
 
 **Link to work**: [Day 5.1](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day5.1).
