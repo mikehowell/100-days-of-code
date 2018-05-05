@@ -59,3 +59,14 @@ I wouldn't mind trying to implement an actual sorting algorithm in a class rathe
 **Thoughts**: I decided to do another challenge today.  This one seemed harder that it should have been.  There doesn't appear to be built in .Net method to do this.  I used two Lists, one to contain the string and the other to take the characters that didn't need removing.  Finally I iterated over this List to "convert" it to a string.  There's bound to be a much earier way to do this.
 
 **Link to work**: [Day 5.1](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day5.1).
+
+### Day 6: May 6, 2018 ###
+
+**Today's Progress**: Create code and unit tests to test validity of 10 digit ISBN number.
+
+**Thoughts**: This was fun challenge and a good candidate for extension to test validity of 13 digit ISBN numbers too.  I also used a try catch block and added basic exception handling for a case when a string that is not 10 characters long is entered.  I had a problem trying to get the unit test for this to work.  After adding the [ExpectedException(typeof(Exception))] decorator to the test method, I also had to add a throw to the catch block to get the unit test to pass.
+Useful links to articles on ISBN:
+1. [Wikipedia](https://en.wikipedia.org/wiki/International_Standard_Book_Number)
+2. [Instructables](http://www.instructables.com/id/How-to-verify-a-ISBN/)
+
+**Link to work**: [Day 6](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day6).
