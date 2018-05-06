@@ -62,7 +62,7 @@ I wouldn't mind trying to implement an actual sorting algorithm in a class rathe
 
 ### Day 6: May 6, 2018 ###
 
-**Today's Progress**: Create code and unit tests to test validity of 10 digit ISBN number.
+**Today's Progress**: Created code and unit tests to test validity of 10 digit ISBN number.
 
 **Thoughts**: This was fun challenge and a good candidate for extension to test validity of 13 digit ISBN numbers too.  I also used a try catch block and added basic exception handling for a case when a string that is not 10 characters long is entered.  I had a problem trying to get the unit test for this to work.  After adding the [ExpectedException(typeof(Exception))] decorator to the test method, I also had to add a throw to the catch block to get the unit test to pass.
 Useful links to articles on ISBN:
@@ -70,3 +70,13 @@ Useful links to articles on ISBN:
 2. [Instructables](http://www.instructables.com/id/How-to-verify-a-ISBN/)
 
 **Link to work**: [Day 6](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day6).
+
+### Day 6.1: May 6, 2018 ###
+
+**Today's Progress**: Created code and unit tests to return the sum of all multiples of 3 and 5 less than 1000.
+
+**Thoughts**: I had time to tackle another challenge so attempted this rather easy one.  The effort to write the unit test felt wasted.
+
+**Link to work**: [Day 6.1](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day6.1).
+
+
