@@ -79,10 +79,18 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 6.1](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day6.1).
 
-### Day 7: May7, 2018 ###
+### Day 7: May 7, 2018 ###
 
 **Today's Progress**: Created code and unit tests to test if a number is a Strong Number, which is one where the factorial of the individual digits adds up to the number itself.  For example, 145 = 1! + 4! + 5! = 1 + 24 + 120.
 
 **Thoughts**: I'm not sure that I implemented the class for this one in a good way but I had fun.  I used private fields, a constructor with a parameter, a number of private methods and a public method to return true or false depending on whether the number is strong or not.  I also set up some private fields ahead of the TestMethods in UnitTests, feeing up the UnitTests to instatiate an instance of the StrongNumber class and then make an Assertion based on the call to the method, IsStrongNumber.
 
 **Link to work**: [Day 7](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day7).
+
+### Day 8: May 8, 2018 ###
+
+**Today's Progress**: Created code and unit tests to sum all the positive integers in an array.
+
+**Thoughts**:  I still struggle naming things but at least the code seems to flow a little easier.
+
+**Link to work**: [Day 8](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day8).
