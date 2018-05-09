@@ -94,3 +94,11 @@ Useful links to articles on ISBN:
 **Thoughts**:  I still struggle naming things but at least the code seems to flow a little easier.
 
 **Link to work**: [Day 8](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day8).
+
+### Day 9: May 9, 2018 ###
+
+**Today's Progress**: Created code and unit tests to check a leap year.
+
+**Thoughts**" I picked an easy challenge today as I spent a lot of time waiting for Visual Studio to update before I could progress.  I managed to create the code to fulfill the challenge without cheating but resoted to multiple nested ifs which is probably frowned upon by more experienced developers and to be honest, looks ugly.  I did find a nice way to acheive the same result in an if else block from [StackOverflow](https://stackoverflow.com/questions/725098/leap-year-calculation).  Which I included in my method but commented out.
+
+**Link to work**: [Day 9](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day9).
