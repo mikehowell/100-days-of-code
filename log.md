@@ -102,3 +102,11 @@ Useful links to articles on ISBN:
 **Thoughts**: I picked an easy challenge today as I spent a lot of time waiting for Visual Studio to update before I could progress.  I managed to create the code to fulfill the challenge without cheating but resoted to multiple nested ifs which is probably frowned upon by more experienced developers and to be honest, looks ugly.  I did find a nice way to acheive the same result in an if else block from [StackOverflow](https://stackoverflow.com/questions/725098/leap-year-calculation).  Which I included in my method but commented out.
 
 **Link to work**: [Day 9](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day9).
+
+### Day 9: May 9, 2018 ###
+
+**Today's Progress**: Created code and unit tests to return remainder when dividing by 13.
+
+**Thoughts**: The maths of this was a little complex to get to grips with at first.  I also cheated a little on the unit tests in that I created two assertions in one test and populated them with values on the fly, rather than setting variables with these values and then using the variables in the assert, which I think looks better and is generally more readable.
+
+**Link to work**: [Day 10](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day10).
