@@ -118,3 +118,11 @@ Useful links to articles on ISBN:
 **Thoughts**: I worked through this challenge without any Googling, using only the examples for guidance.  I used the examples to validate the results via the unit tests but perhaps I could have written the unit tests first!
 
 **Link to work**: [Day 11](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day11).
+
+### Day 12: May 12, 2018 ###
+
+**Today's Progress**: Created code and unit tests to convert hyphen or underscore delimited words into camel casing.
+
+**Thoughts**: This was a nice easy challenge for a Saturday.  I'm still sure that there could be better ways to acheive this.
+
+**Link to work**: [Day 12](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day12).
