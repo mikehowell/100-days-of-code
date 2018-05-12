@@ -126,3 +126,11 @@ Useful links to articles on ISBN:
 **Thoughts**: This was a nice easy challenge for a Saturday.  I'm still sure that there could be better ways to acheive this.
 
 **Link to work**: [Day 12](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day12).
+
+### Day 12.1: May 12, 2018 ###
+
+**Today's Progress**: Created code and unit tests to return the sum of all even numbers in a Fibonacci Sequence up to four million.
+
+**Thoughts**: This was way harder than it looked at first sight but doing research lead me to explore using a Linq (Lambda) expression and the _yield_ key word which I'm still not sure about.
+
+**Link to work**: [Day 12.1](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day12.1).
