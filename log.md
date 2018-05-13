@@ -134,3 +134,11 @@ Useful links to articles on ISBN:
 **Thoughts**: This was way harder than it looked at first sight but doing research lead me to explore using a Linq (Lambda) expression and the _yield_ key word which I'm still not sure about.
 
 **Link to work**: [Day 12.1](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day12.1).
+
+### Day 13: May 13, 2018 ###
+
+**Today's Progress**: Create code and unit tests to return the smalled and largest possible sums from an array of numbers.
+
+**Thoughts**: This challenge was fun.  I extended it to allow the input of as many numbers as the user wants by using the param key word on the contructor method.  Oddly, without including a parameterless contructor, instantiating the class without any inputs didn't cause the compiler to complain.  I'm not sure why!
+
+**Link to work**: [Day 13](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day13).
