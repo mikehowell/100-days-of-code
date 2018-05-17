@@ -142,3 +142,11 @@ Useful links to articles on ISBN:
 **Thoughts**: This challenge was fun.  I extended it to allow the input of as many numbers as the user wants by using the param key word on the contructor method.  Oddly, without including a parameterless contructor, instantiating the class without any inputs didn't cause the compiler to complain.  I'm not sure why!
 
 **Link to work**: [Day 13](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day13).
+
+### Day 14: May 14, 2018 ###
+
+**Today's Progress**:  This was extremely challenging and not finished!
+
+**Thoughts**: This challenge should have been completed two days ago but a migraine put an end to the work.  Last I went to wattch Deadpool 2 - definitely worth missing an eveing coding for.  I'll try and add another challenge tonight (17 May).
+
+**Link to work**: [Day 14](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day14).
