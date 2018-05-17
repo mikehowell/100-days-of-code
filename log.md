@@ -150,3 +150,11 @@ Useful links to articles on ISBN:
 **Thoughts**: This challenge should have been completed two days ago but a migraine put an end to the work.  Last I went to wattch Deadpool 2 - definitely worth missing an eveing coding for.  I'll try and add another challenge tonight (17 May).
 
 **Link to work**: [Day 14](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day14).
+
+### Day 15: May 17, 2018 ###
+
+**Today's Progress**:  Created code with exception handling and unit test to turn seconds into HH:MM:SS format.  This was fun and easy.
+
+**Thoughts**:  I felt the need to an easier challenge to help boost me after day 14's failed attempt.  This one fitted nicely!  I added exception handling and a unti test that tests for the exception.
+
+**Link to work**: [Day 15](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day15).
