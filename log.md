@@ -158,3 +158,11 @@ Useful links to articles on ISBN:
 **Thoughts**:  I felt the need to an easier challenge to help boost me after day 14's failed attempt.  This one fitted nicely!  I added exception handling and a unti test that tests for the exception.
 
 **Link to work**: [Day 15](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day15).
+
+### Day 16: May 18, 2018 ###
+
+**Today's Progress**:  I created this challenge myself as a way to generate random Lotto numbers.  
+
+**Thoughts**:  I felt this would be an easy challenge but I had fun with it and was able explore using properties with private setters, a constructor to set the property values only if they were valid, otherwise throw an exception.  The unit tests were challenging but I tested exceptions for each input parameter, that the count of random numbers returned was correct and that they are all different.
+
+**Link to work**: [Day 16](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day16).
