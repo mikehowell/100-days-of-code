@@ -166,3 +166,11 @@ Useful links to articles on ISBN:
 **Thoughts**:  I felt this would be an easy challenge but I had fun with it and was able explore using properties with private setters, a constructor to set the property values only if they were valid, otherwise throw an exception.  The unit tests were challenging but I tested exceptions for each input parameter, that the count of random numbers returned was correct and that they are all different.
 
 **Link to work**: [Day 16](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day16).
+
+### Day 17: May 19, 2018 ###
+
+**Today's Progress**:  Created a grade rounding system.
+
+**Thoughts**:  This challenge was relatively straight forward. However, the class feels a little bloated and has a number of private methods and a private property.  There might be a better way to split this out into a number of sub classes, which could be a valuable exercise.  There is also quite a bit of error handling around the inputs and unit tests to test both valid rounding and that each exception is correctly thrown.
+
+**Ling to work**: [Day 17](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day17).
