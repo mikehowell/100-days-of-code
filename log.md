@@ -173,4 +173,12 @@ Useful links to articles on ISBN:
 
 **Thoughts**:  This challenge was relatively straight forward. However, the class feels a little bloated and has a number of private methods and a private property.  There might be a better way to split this out into a number of sub classes, which could be a valuable exercise.  There is also quite a bit of error handling around the inputs and unit tests to test both valid rounding and that each exception is correctly thrown.
 
-**Ling to work**: [Day 17](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day17).
+**Link to work**: [Day 17](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day17).
+
+### Day 18: May 20, 2018 ###
+
+**Today's Progress**:  Created a phone number validator using a regular expression.
+
+**Thoughts**: This was a simple challenge but took a while to figure out the regular expression.
+
+**Link to work**: [Day 18](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day18).
