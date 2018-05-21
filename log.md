@@ -182,3 +182,11 @@ Useful links to articles on ISBN:
 **Thoughts**: This was a simple challenge but took a while to figure out the regular expression.
 
 **Link to work**: [Day 18](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day18).
+
+### Day 19: May 21, 2018 ###
+
+**Today's Progress**: Tested whether a number is Disarium or not.
+
+**Thoughts**: This challenge looked harder than it was and in the end, I create a class with a single method and nothing else to solve the challenge.  I found an interesting way to split a number into and array of it's digits.  I suspect this could be condensed into iterating over the stack and working out the sum of the digits to their respective powers rather than introducing an array.  Perhaps that's part of a refactoring challenge.
+
+**Link to work**: [Day 19](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day19).
