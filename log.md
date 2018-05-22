@@ -190,3 +190,11 @@ Useful links to articles on ISBN:
 **Thoughts**: This challenge looked harder than it was and in the end, I create a class with a single method and nothing else to solve the challenge.  I found an interesting way to split a number into and array of it's digits.  I suspect this could be condensed into iterating over the stack and working out the sum of the digits to their respective powers rather than introducing an array.  Perhaps that's part of a refactoring challenge.
 
 **Link to work**: [Day 19](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day19).
+
+### Day 20: May 22, 2018 ###
+
+**Today's Progress**: Created a Stopwatch class with proper encapsulation and error handling.
+
+**Thoughts**: This was a good challenge and more of what I feel I need to do to practice for the MS exam.
+
+**Link to work**: [Day 20](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day20).
