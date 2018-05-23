@@ -198,3 +198,11 @@ Useful links to articles on ISBN:
 **Thoughts**: This was a good challenge and more of what I feel I need to do to practice for the MS exam.
 
 **Link to work**: [Day 20](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day20).
+
+### Day 21: May 23, 2018 ###
+
+**Today's Progress**: Created an abstract DbConnection class and two classes that inherited from this abstract class.
+
+**Thoughts**: I had the chance to practise setting different access modifiers but was not able to fiugre out how to implement unit tests for methods that don't have any implementation but just write out to the console (as pseudo implementation).  There is opportunity here to enhance this implementation by implementing a timer and if this exceeds the timeout for establishing a db connection, throw and exception.
+
+**Link to work**: [Day 21](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day21).
