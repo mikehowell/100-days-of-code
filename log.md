@@ -206,3 +206,11 @@ Useful links to articles on ISBN:
 **Thoughts**: I had the chance to practise setting different access modifiers but was not able to fiugre out how to implement unit tests for methods that don't have any implementation but just write out to the console (as pseudo implementation).  There is opportunity here to enhance this implementation by implementing a timer and if this exceeds the timeout for establishing a db connection, throw and exception.
 
 **Link to work**: [Day 21](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day21).
+
+### Day 22: May 24, 2018 ###
+
+**Today's Progress**: Followed on from yesterday by creating a DbCommand class that takes a DbConnection and command to be exectuted against the database.
+
+**Thoughts**: This was interesting to be able to pass an object (DbConnection) as a parameter of the DbCommand contructor method.  My mindset so far has been that parameters to methods are value types rather than reference types.  I need to get my head around this idea and embrace it to progress my coding skills.
+
+**Link to work**: [Day 22](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day22).
