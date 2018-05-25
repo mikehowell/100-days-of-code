@@ -214,3 +214,12 @@ Useful links to articles on ISBN:
 **Thoughts**: This was interesting to be able to pass an object (DbConnection) as a parameter of the DbCommand contructor method.  My mindset so far has been that parameters to methods are value types rather than reference types.  I need to get my head around this idea and embrace it to progress my coding skills.
 
 **Link to work**: [Day 22](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day22).
+
+### Day 23: May 25, 2018 ###
+
+**Today's Progress**: Created a class to count the number of times a digit can be found in the squares of a range of numbers.
+
+**Thoughts**: This is another example of where I've needed to split a digit into an array of it's individual numbers.  There must be an easier way to achieve this.
+
+**Link to work**: [Day 23](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day23).
+
