@@ -223,3 +223,10 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 23](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day23).
 
+### Day 24: May 26, 2018 ###
+
+**Today's Progress**: Created a guessing game app.
+
+**Thoughts**: I played around with separate classes, where one generates a random number in the constructor and the game class takes the random number class as input.  This may not have been the best approach but still a useful exercise.  I had problems creating unit tests for these classes.
+
+**Link to work**: [Day 24](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day24).
