@@ -230,3 +230,12 @@ Useful links to articles on ISBN:
 **Thoughts**: I played around with separate classes, where one generates a random number in the constructor and the game class takes the random number class as input.  This may not have been the best approach but still a useful exercise.  I had problems creating unit tests for these classes.
 
 **Link to work**: [Day 24](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day24).
+
+
+### Day 25: May 27, 2018 ###
+
+**Today's Progress**: Created string pattern based on integer input.
+
+**Thoughts**: This was very easy but I had a chance to play around with string builder.  String builder is very powerful.
+
+**Link to work**: [Day 25](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day25).
