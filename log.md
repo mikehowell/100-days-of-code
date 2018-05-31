@@ -239,3 +239,11 @@ Useful links to articles on ISBN:
 **Thoughts**: This was very easy but I had a chance to play around with string builder.  String builder is very powerful.
 
 **Link to work**: [Day 25](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day25).
+
+### Day 26: May 28, 2018 ###
+
+**Today's Progress**: Added methods to C# class to return correct change based on amount paid and cost.
+
+**Thoughts**: This was very hard and took three days of gnawing at it to get something that works, in that it returns the right change but the unit tests for some reason don't pass, except the one that returns and empty list of change where not change is expected and I'm not sure why.  This is a problem for another time.  Additionally, the way I calculated the change is very long winded.  I know there are better ways, I've seen them on the internet, I just don't understand them enough to implement my own.  This problem is very close to what I'd expect in the real world i.e. high, can you finish off this code for project X as developer Y is part way through but on sick leave today.......
+
+**Link to work**: [Day 26](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day26).
