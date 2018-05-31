@@ -247,3 +247,12 @@ Useful links to articles on ISBN:
 **Thoughts**: This was very hard and took three days of gnawing at it to get something that works, in that it returns the right change but the unit tests for some reason don't pass, except the one that returns and empty list of change where not change is expected and I'm not sure why.  This is a problem for another time.  Additionally, the way I calculated the change is very long winded.  I know there are better ways, I've seen them on the internet, I just don't understand them enough to implement my own.  This problem is very close to what I'd expect in the real world i.e. high, can you finish off this code for project X as developer Y is part way through but on sick leave today.......
 
 **Link to work**: [Day 26](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day26).
+
+### Day 27: May 31, 2018 ###
+
+**Today's Progress**: Added code to method to correctly return Roman Numeral for integers between 1 and 4999.
+
+**Thoughts**:  This was relatively straight forward and a nice use for recursion.  It's provided an idea on how to refactor the previous challenge.
+
+**Link to work**: [Day 27](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day27).
+
