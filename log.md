@@ -256,3 +256,11 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 27](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day27).
 
+### Day 28: June 1, 2018 ###
+
+**Today's Progress**: Added code to method to correctly return integer from Roman Numeral string.
+
+**Thoughts**:  This was a good challenge and a nice way to end the week.
+
+**Link to work**: [Day 28](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day28).
+
