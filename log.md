@@ -264,3 +264,11 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 28](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day28).
 
+### Day 29: June 2, 2018 ###
+
+**Today's Progress**: Added code to method to translate English word into Pig Latin.
+
+**Thoughts**: This was a good string manipulation exercise and initially I was iterating over arrays of characters but soon figured out that there are some useful string methods and can be used to easily solve the challeng like string.IndexOfAny(char[]).  I was not able to get the **extra credit** unit tests to pass as these input sentences with capitalization and commas and full stops that need to be accounted for.  I will extend this method to acheive this.
+
+**Link to work**: [Day 29](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day29).
+
