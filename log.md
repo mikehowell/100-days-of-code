@@ -272,3 +272,11 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 29](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day29).
 
+### Day 30: June 3, 2018 ###
+
+**Today's Progress**: Updated code from yesterday to attempt to get addtional **extra credit** unit test to pass.
+
+**Thoughts**: This is challenging.  I'm not able to get one unit test to pass the has the word quick in it.  The unit test expects that quick becomes ickquay i.e. the q and u travel as a unit but taking the code takes the index of the first vowel as the u and returns uickqay.  I'm guessing this is meant to be an exception rather than an error with the unit test.  I need to figure out how to code for this exception.  What if a word staring with qu doesn't contain any other vowels?  Do such English words exist.  Also, this exception needs to be catered for when I write the other method to translate back from Pig Latin to English!
+
+**Link to work**: [Day 30](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day29).
+
