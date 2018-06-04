@@ -280,3 +280,11 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 30](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day29).
 
+### Day 31: June 4, 2018 ###
+
+**Today's Progress**: Started updating method to convert Pig Latin to English.
+
+**Thoughts**:  This is quite hard but I want to try solve the thing without Googling an answer.  It's easy enough to translate words ending in way that start with a vowel by dropping way with some exceptions like orldway which should translate to world.  Words ending in ay are more difficult.  How do you ascertain how many letters at the end need to be moved to the begining?
+
+**Link to work**: [Day 31](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day30).
+
