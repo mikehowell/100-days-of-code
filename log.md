@@ -288,3 +288,10 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 31](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day30).
 
+### Day 32: June 5, 2018 ###
+
+**Today's Progress**: Updated method for converting Pig Latin to English.  The base unit tests now pass.
+
+**Thoughts**: The method now returns some English words but not all.  I cannot get the **extra credit** unit tests to pass so some more work needs to be done to tackle this.
+
+**Link to work**: [Day 32](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day30).
