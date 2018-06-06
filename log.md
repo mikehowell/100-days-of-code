@@ -295,3 +295,12 @@ Useful links to articles on ISBN:
 **Thoughts**: The method now returns some English words but not all.  I cannot get the **extra credit** unit tests to pass so some more work needs to be done to tackle this.
 
 **Link to work**: [Day 32](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day30).
+
+### Day 33: June 5, 2018 ###
+
+**Today's Progress**: Updated encode and decode methods for Caesar Cipher.
+
+**Thoughts**: This was way less challenging than the Pig Latin converter which is still not finished BTW!  I had extra time so did both the encode and decode methods in one sitting.
+
+**Link to work**: [Day 33](https://github.com/mikehowell/100-days-of-code-the-challenges/blob/master/solutions/day31).
+
