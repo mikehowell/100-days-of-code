@@ -296,11 +296,19 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 32](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day30).
 
-### Day 33: June 5, 2018 ###
+### Day 33: June 6, 2018 ###
 
 **Today's Progress**: Updated encode and decode methods for Caesar Cipher.
 
 **Thoughts**: This was way less challenging than the Pig Latin converter which is still not finished BTW!  I had extra time so did both the encode and decode methods in one sitting.
 
 **Link to work**: [Day 33](https://github.com/mikehowell/100-days-of-code-the-challenges/blob/master/solutions/day31).
+
+### Day 34: June 7th & 8th, 2018 ###
+
+**Today's Progress**: Completed simple method to determine call duration based on variable cost per minute.
+
+**Thoughts**: I started this yesterday (7th June) and although this was very simple, needed to finish off on the 8th as I needed time to prep for a C# presentation on interfaces for our lunchtime C# study group that happens each Friday.  It was good to have to create unit tests from scratch.  The test method naming needs work. 
+
+**Link to work**: [Day34](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day32).
 
