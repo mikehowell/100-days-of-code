@@ -312,3 +312,10 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day34](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day32).
 
+### Day 35: June 9th, 2018 ###
+
+**Today's Progress**:  Completed another simple challenge to return Pling, Plang or Plong based on the factors of a number.
+
+**Thoughts**:  Initially this looked daunting but on starting, I quickly realised this is very similar to the Fizz Buzz challenge.
+
+**Link to work**: [Day 35](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day33).
