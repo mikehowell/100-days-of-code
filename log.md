@@ -319,3 +319,13 @@ Useful links to articles on ISBN:
 **Thoughts**:  Initially this looked daunting but on starting, I quickly realised this is very similar to the Fizz Buzz challenge.
 
 **Link to work**: [Day 35](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day33).
+
+### Day 36: June 10th, 2018 ###
+
+**Today' Progress**:  Completed a encoding and decoding challenge for Rail Fence Cipher.  
+
+**Thoughts**: This was tricky and more like the types of problems I need to continue to practice.  This was started yesterday, hence marked as day33.1.
+
+**Link to work**: [Day 36](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day33.1).
+
+
