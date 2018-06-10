@@ -322,10 +322,16 @@ Useful links to articles on ISBN:
 
 ### Day 36: June 10th, 2018 ###
 
-**Today' Progress**:  Completed a encoding and decoding challenge for Rail Fence Cipher.  
+**Today's Progress**:  Completed a encoding and decoding challenge for Rail Fence Cipher.  
 
 **Thoughts**: This was tricky and more like the types of problems I need to continue to practice.  This was started yesterday, hence marked as day33.1.
 
 **Link to work**: [Day 36](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day33.1).
 
+### Day 36: June 10th, 2018 ###
 
+**Today's Progress**:  The date isn't wrong for this one.... I completed a second easy challenge.  This was to return the longest work in a sentence.
+
+**Thoughts**:  My initial take on this is that it was tricky, especially as the words need to exclude punctuation.  I tried a silly way initially to remove punctuaion before discovering that the char type has a static method IsPunctuation.  Using this, it's quite easy to remove any punctuation from a word by splitting it into it's characters and iterating over them.
+
+**Link to work**: [Day 36](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day34).
