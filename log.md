@@ -335,3 +335,12 @@ Useful links to articles on ISBN:
 **Thoughts**:  My initial take on this is that it was tricky, especially as the words need to exclude punctuation.  I tried a silly way initially to remove punctuaion before discovering that the char type has a static method IsPunctuation.  Using this, it's quite easy to remove any punctuation from a word by splitting it into it's characters and iterating over them.
 
 **Link to work**: [Day 36](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day34).
+
+### Day 37: June 11th, 2018 ###
+
+**Today's Progress**: Created code to test if two "encrypted" strings are the same.
+
+**Thoughts**: this was an interesting challenge in that it mixed dealing with strings and numbers to form an encrypted string, as always, there are probably shorter more succinct ways to acheive the same result but I'm happy with the outcome.  The code reads well and I've broken it up into a few methods that each do a separate task.
+
+**Link to work**: [Day 37](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day35).
+
