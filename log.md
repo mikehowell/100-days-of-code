@@ -344,3 +344,10 @@ Useful links to articles on ISBN:
 
 **Link to work**: [Day 37](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day35).
 
+### Day 38: June 13th, 2018 ###
+
+**Today's Progress**: Created code to reduce string as per challenge instructions.
+
+**Thoughts**: I started this yesterday and struggled with it, in spite of it being relatively simple.  Arrays are tricky!
+
+**Link to work**: [Day 38](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day36).
