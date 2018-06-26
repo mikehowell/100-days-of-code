@@ -351,3 +351,22 @@ Useful links to articles on ISBN:
 **Thoughts**: I started this yesterday and struggled with it, in spite of it being relatively simple.  Arrays are tricky!
 
 **Link to work**: [Day 38](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day36).
+
+### Day 39: June 14th, 2018 ###
+
+**Today's Progress**: Created code to determine if an addition equation is a Turing equation i.e. when revered, it is correct.
+
+**Thoughts**: This one wasn't too difficult but I've had a bunch of ideas on how to solve this differently that I'd like to explore.
+
+**Link to work**: [Day 39](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day37).
+
+### Day 40: June 26th, 2018 ###
+
+**Today's Progress**: Created code to calculate values for uniform strings.
+
+**Thoughs**:  I spent a few hours each night of the last few days trying to figure this one out.  The tricky part is working out how to return the uniform strings from a string of lower case letters i.e. for string "aabccdccc", the uniform contiguous substrings are a, b, c, d, aa, cc, ccc.  I finally solved this using a stack to track the contiguous substrings but as always, I'm sure there are better ways to do this.
+
+**Link to work**: [Day 39](https://github.com/mikehowell/100-days-of-code-the-challenges/tree/master/solutions/day38).
+
+**NOTE**: It's been over a week since I submitted anything to GitHub as part of the 100 days of code challenge.  I've been coding during this time on a corporate challenge which I've not been able to share here.  I was only able to complete half of the corporate challenges in the week but won the competition (more by default than by skill as I was the only one to submit the work I did but the past 38 days of coding certainly helped).
+
